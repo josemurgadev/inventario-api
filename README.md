@@ -47,7 +47,7 @@ La forma más fácil de ejecutar el proyecto completo:
 
 ```bash
 # Clonar e iniciar
-git clone https://github.com/Jmurga16/inventario-api.git
+git clone https://github.com/josemurgadev/inventario-api.git
 cd inventario-api
 docker-compose up -d
 
@@ -81,7 +81,7 @@ docker-compose down -v
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/Jmurga16/inventario-api.git
+git clone https://github.com/josemurgadev/inventario-api.git
 cd inventario-api
 ```
 
